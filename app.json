@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID acts as the path and account password of each configuration. It is recommended to modify and save it properly. UUID website can be generated: https://www.uuidgenerator.net",
-            "value": "7b38971d-dece-453a-a5bf-100faa095a49"
+            "value": "30bf5551-bbb1-4efe-b8c0-f0a5f19c5d35"
         },
         "CADDYIndexPage": {
             "description": "CADDYIndexPage",
