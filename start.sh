@@ -15,7 +15,7 @@ for file in $(ls /usr/share/caddy/$AUUID); do
 done
 
 # start
-tor &
+#tor &
 
 /xray -config /xray.json &
 
