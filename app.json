@@ -17,7 +17,7 @@
         },
         "CONFIGCADDY": {
             "description": "Please do not modify it if you are not familiar with the CADDY configuration",
-            "value": "https://raw.githubusercontent.com/wyGitgo/xvlvmEnglish/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/trurrdgr/trojan-go/main/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "User-defined network address. Read configuration to run xray, please do not modify it if you are not familiar with xray configuration",
