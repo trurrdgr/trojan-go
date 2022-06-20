@@ -13,7 +13,7 @@
         },
         "CADDYIndexPage": {
             "description": "CADDYIndexPage",
-            "value": "https://github.com/trurrdgr/trojan-go/blob/main/mikutap.zip"
+            "value": "https://raw.githubusercontent.com/trurrdgr/trojan-go/blob/main/mikutap.zip"
         },
         "CONFIGCADDY": {
             "description": "Please do not modify it if you are not familiar with the CADDY configuration",
